@@ -1,0 +1,26 @@
+{"1.1.0",
+[{<<"errd">>,
+  {git,"git://github.com/archaelus/errd.git",
+       {ref,"e88239c20852aaa01cb0794993c41b3b7cc8d1cf"}},
+  1},
+ {<<"goldrush">>,{pkg,<<"goldrush">>,<<"0.1.9">>},2},
+ {<<"lager">>,
+  {git,"git://github.com/erlang-lager/lager",
+       {ref,"3c275e4399a1b8f8cb3434c46b9135909e865762"}},
+  1},
+ {<<"log4erl">>,
+  {git,"git://github.com/ahmednawras/log4erl.git",
+       {ref,"247128ab9e84c4383a5fdc31eaae82ea4406e2c2"}},
+  1},
+ {<<"logbench">>,
+  {git,"git://github.com/Vagabond/logbench",
+       {ref,"4aeaa17892f5c26bdf88e2511139b3c5e209915b"}},
+  0},
+ {<<"mochiweb">>,
+  {git,"https://github.com/mochi/mochiweb.git",
+       {ref,"985fa8acb2d9c71b36548e4f90f0f96ef9c4eab6"}},
+  2}]}.
+[
+{pkg_hash,[
+ {<<"goldrush">>, <<"F06E5D5F1277DA5C413E84D5A2924174182FB108DABB39D5EC548B27424CD106">>}]}
+].
